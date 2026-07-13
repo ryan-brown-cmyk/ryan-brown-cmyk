@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hello! 
 
-I'm Ryan Brown, a sophmore electrical engineering major, with a minor in theater production - lighting at the University of Florida!
+I'm Ryan Brown, a junior electrical engineering major, with a minor in theater production - lighting at the University of Florida!
+
+For the most up-to-date and accurate information, check out my portfolio website via GitHub's Pages, [Ryan Brown's Portfolio](https://ryan-brown-cmyk.github.io/).
 
 At UF, I am a TA for EGN2020C (Engineering Design and Society), as well as a captain for the Interactives Design Subteam as part of the University of Florida Theme Park Engineering and Design Club (TPED).
 
@@ -16,9 +18,9 @@ A Rust based audio processing, manipulation, and production application, able to
 
 See the repo on my profile for the exact description and roadplan, but this is my personal project that I'm working the most on!
 
-### Portfolio Website
+### Portfolio Website (10%)
 
-This is on the backburner for now, relative to `SoundFun`, but is being touched up occasionally. Still need to decide the exact direction I am taking it in! (Which frameworks to use, what the general design should be, etc). 
+Will contain a lot of my works! As well as more detailed write ups that would otherwise be too large for my resume (which you should go check out on the website).
 
 
 
