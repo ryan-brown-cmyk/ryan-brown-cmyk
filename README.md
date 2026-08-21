@@ -2,7 +2,7 @@
 
 I'm Ryan Brown, a junior electrical engineering major, with a minor in theater production - lighting at the University of Florida!
 
-For the most up-to-date and accurate information, check out my portfolio website via GitHub's Pages, [Ryan Brown's Portfolio](https://ryan-brown-cmyk.github.io/).
+~~For the most up-to-date and accurate information, check out my portfolio website via GitHub's Pages, [Ryan Brown's Portfolio](https://ryan-brown-cmyk.github.io/).~~ (Under construction, coming soon! For now, my LinkedIn has the most up to date information)
 
 At UF, I am a TA for EGN2020C (Engineering Design and Society), as well as a captain for the Interactives Design Subteam as part of the University of Florida Theme Park Engineering and Design Club (TPED).
 
