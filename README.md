@@ -20,7 +20,7 @@ See the repo on my profile for the exact description and roadplan, but this is m
 
 ### Portfolio Website (10%)
 
-Will contain a lot of my works! As well as more detailed write ups that would otherwise be too large for my resume (which you should go check out on the website).
+Will contain a lot of my works! As well as more detailed write ups that would otherwise be too large for my resume (which you should go check out on ~~the website~~ my LinkedIn).
 
 
 
