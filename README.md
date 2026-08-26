@@ -8,7 +8,7 @@ At UF, I am a TA for EGN2020C (Engineering Design and Society), as well as a cap
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ryan-brown-751243327/). 
 
-Feel free to take a look around, however most of my contributions have been to various private repositories for internships, so my public profile may be lacking currently.
+Feel free to take a look around, however most of my contributions have been to various private repositories for internships, so my public profile may be lacking currently. ( Previous internships with Alcorn McBride as a Product Engineering Intern, and with Blue Frontier as an Electrical Engineering Intern ).
 
 ## Projects in the works
 
